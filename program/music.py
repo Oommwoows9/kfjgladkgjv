@@ -62,7 +62,7 @@ async def play(c: Client, m: Message):
             ],
                 [
             InlineKeyboardButton( 
-                        "", url="https://t.me/nayy2019" 
+                        "-", url="https://t.me/nayy2019" 
                     ),
             ] 
         ]       
@@ -281,7 +281,7 @@ async def stream(c: Client, m: Message):
             ],
                 [
             InlineKeyboardButton( 
-                        "", url="https://t.me/nayy2019" 
+                        "-", url="https://t.me/nayy2019" 
                     ),
             ] 
         ]       
